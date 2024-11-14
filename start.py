@@ -295,7 +295,7 @@ if __name__ == "__main__":
 
     #установка голоса по умолчанию
     voice = ttsEngine.getProperty("voices")
-    ttsEngine.setProperty("voice", voice[3].id)
+    ttsEngine.setProperty("voice", voice[0].id)
    
    #настройки пользователя
     person = OwnerPerson()
