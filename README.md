@@ -42,7 +42,8 @@ pip install SpeechRecognition
 pip install wikipedia
 pip install pyttsx3
 pip install termcolor
-pip install requests
+pip install request
+pip install pyaudio
 ```
 Вместо этого можно использовать:
 ```shell
