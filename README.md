@@ -42,7 +42,7 @@ pip install SpeechRecognition
 pip install wikipedia
 pip install pyttsx3
 pip install termcolor
-pip install request
+pip install requests
 pip install pyaudio
 ```
 Вместо этого можно использовать:
