@@ -47,7 +47,7 @@ pip install pyaudio
 ```
 Вместо этого можно использовать:
 ```shell
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 # Настройка получения прогноза погоды от OpenWeatherMap
